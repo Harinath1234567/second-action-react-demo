@@ -58,7 +58,7 @@ jobs:
         run: npm test
       - name: build Project
         run: npm run build
-      -name : deploy
+      - name : deploy
         run : echo "Deploying ..."
         
       
